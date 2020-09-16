@@ -1,8 +1,8 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Hot Emo Theme",
-	"type": "dark",
-	"editor.semanticHighlighting.enabled": false,
+  "type": "dark",
+  "editor.semanticHighlighting.enabled": false,
   "colors": {
 
     "foreground": "#f5eaf5",
