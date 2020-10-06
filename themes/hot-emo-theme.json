@@ -104,11 +104,11 @@
     "extensionButton.prominentHoverBackground": "#dd71b9aa",
     "extensionButton.prominentForeground": "#fff",
 
-    "gitDecoration.addedResourceForeground": "#62ad44",
+    "gitDecoration.addedResourceForeground": "#5ed694",
     "gitDecoration.conflictingResourceForeground": "#ebc548",
     "gitDecoration.deletedResourceForeground": "#d14040",
     "gitDecoration.ignoredResourceForeground": "#978c94",
-    "gitDecoration.modifiedResourceForeground": "#f57cb8",
+    "gitDecoration.modifiedResourceForeground": "#f7b2f6",
     "gitDecoration.submoduleResourceForeground": "#9851db",
     "gitDecoration.untrackedResourceForeground": "#6ac0b9",
 
@@ -356,7 +356,7 @@
         "support.type"
       ],
       "settings":{
-        "foreground": "#62ad44",
+        "foreground": "#89cfeb",
         "fontStyle": ""
       }
     },
@@ -450,7 +450,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#62ad44"
+        "foreground": "#56d8c2"
       }
     },
     {
@@ -513,7 +513,7 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#62ad44"
+        "foreground": "#6de2a8"
       }
     },
     {
@@ -580,7 +580,7 @@
         "text.html.markdown markup.inline.raw"
       ],
       "settings": {
-        "foreground": "#62ad44"
+        "foreground": "#71e0d7"
       }
     },
     {
