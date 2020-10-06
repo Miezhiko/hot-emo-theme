@@ -84,14 +84,14 @@
     "editorMarkerNavigationError.background": "#d95468",
     "editorMarkerNavigationWarning.background": "#d98e48",
     "editorOverviewRuler.border": "#333F4A",
-    "editorOverviewRuler.commonContentForeground": "#ebbf8355",
+    "editorOverviewRuler.commonContentForeground": "#ebe98355",
     "editorOverviewRuler.currentContentForeground": "#ee3a4355",
     "editorOverviewRuler.incomingContentForeground": "#3ad90055",
     "editorRuler.foreground": "#1F4662",
     "editorSuggestWidget.background": "#15232d",
     "editorSuggestWidget.border": "#15232d",
     "editorSuggestWidget.foreground": "#b7c5d3",
-    "editorSuggestWidget.highlightForeground": "#ebbf83",
+    "editorSuggestWidget.highlightForeground": "#eb8a83",
     "editorSuggestWidget.selectedBackground": "#28323a",
     "editorWarning.border": "#ffffff00",
     "editorWarning.foreground": "#ebbf83",
@@ -108,8 +108,8 @@
     "gitDecoration.conflictingResourceForeground": "#ebc548",
     "gitDecoration.deletedResourceForeground": "#d14040",
     "gitDecoration.ignoredResourceForeground": "#978c94",
-    "gitDecoration.modifiedResourceForeground": "#5782df",
-    "gitDecoration.submoduleResourceForeground": "#9045d6",
+    "gitDecoration.modifiedResourceForeground": "#f57cb8",
+    "gitDecoration.submoduleResourceForeground": "#9851db",
     "gitDecoration.untrackedResourceForeground": "#6ac0b9",
 
     "input.background": "#333F4A",
@@ -336,7 +336,7 @@
         "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
       ],
       "settings": {
-        "foreground": "#ebbf83"
+        "foreground": "#dd93cb"
       }
     },
     {
@@ -468,7 +468,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#db6363"
+        "foreground": "#e06767"
       }
     },
     {
@@ -486,7 +486,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#5782df"
+        "foreground": "#618ae2"
       }
     },
     {
@@ -523,7 +523,7 @@
         "markup.heading entity.name"
       ],
       "settings": {
-        "foreground": "#5782df"
+        "foreground": "#618be7"
       }
     },
     {
@@ -720,6 +720,15 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#33ced8"
+      }
+    },
+    {
+      "name": "YAML - tag",
+      "scope": [
+        "entity.name.tag.yaml",
+      ],
+      "settings": {
+        "foreground": "#77a9e0"
       }
     }
   ]
