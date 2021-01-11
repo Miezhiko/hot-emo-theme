@@ -3,7 +3,8 @@
   "displayName": "Hot Emo Theme",
   "description": "Hot Emo theme for VScode.",
   "publisher": "Qeenon",
-  "version": "0.0.4",
+  "license": "ISC",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.33.0"
   },
