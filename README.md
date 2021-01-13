@@ -6,7 +6,7 @@
 # How to get
 
  - VSCode: https://marketplace.visualstudio.com/items?itemName=Qeenon.hot-emo-theme
- - VSCodium:https://open-vsx.org/extension/Qeenon/hot-emo-theme
+ - VSCodium: https://open-vsx.org/extension/Qeenon/hot-emo-theme
 
 # How to package
 
