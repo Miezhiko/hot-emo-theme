@@ -11,3 +11,5 @@
 # How to package
 
  - vsce package
+
+![alt text](https://github.com/Qeenon/hot-emo-theme/blob/mawa/1337.png?raw=true)
