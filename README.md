@@ -1,5 +1,5 @@
 [![Discord](https://img.shields.io/discord/611822838831251466?label=Discord&color=pink)](https://discord.gg/GdzjVvD)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Qeenon.svg?style=social)](https://twitter.com/Qeenon)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Miezhiko.svg?style=social)](https://twitter.com/Miezhiko)
 
 ## Hot Emo Theme
 
@@ -15,4 +15,4 @@
 
  - vsce package
 
-![alt text](https://github.com/Qeenon/hot-emo-theme/blob/mawa/1337.png?raw=true)
+![alt text](https://github.com/Miezhiko/hot-emo-theme/blob/mawa/1337.png?raw=true)
