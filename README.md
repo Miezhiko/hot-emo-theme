@@ -1,6 +1,9 @@
 [![Discord](https://img.shields.io/discord/611822838831251466?label=Discord&color=pink)](https://discord.gg/GdzjVvD)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Miezhiko.svg?style=social)](https://twitter.com/Miezhiko)
 
+DEPRECATED, I USE THIS ONE NOW: https://github.com/Miezhiko/Miezhiko-theme
+==========================================================================
+
 ## Hot Emo Theme
 
  - Inspired mostly by City Lights Theme
